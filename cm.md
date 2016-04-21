@@ -1,4 +1,4 @@
-# Configuration Management
+# Konfigurationsmanagement
 
 
 * Pakete installieren 
