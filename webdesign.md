@@ -10,6 +10,9 @@
 * http://jekyllrb.com - Jekyll
 * https://ghost.org/de/ - Ghost Just a blogging platform
 
+## Shop Builder
+
+* http://prestashop.com - europäicher OpenSource E-Commerce Online Shop auch zum selber hosten
 
 ## Website Builder - Online
 
