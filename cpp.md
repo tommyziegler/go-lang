@@ -6,7 +6,7 @@
 ## Package Manager
  * [CPM](http://www.cpm.rocks) - CPM is a package manager for C++. Learn more by visiting CPM's github page. This website is in alpha testing. If you see any issues, please report them through CPM's github page.
  * [Conan](https://conan.io) - C/C++ package manager
- ** [Biicode](http://www.biicode.com) - Obsolete, some Core developer switched to Conan.
+   * [Biicode](http://www.biicode.com) - Obsolete, some Core developer switched to Conan.
  * [Hunter](http://hunter.sh) - Hunter is CMake-driven cross-platform package manager for C++ projects.
 
 ## Build Tools
