@@ -10,8 +10,9 @@
  * [Hunter](http://hunter.sh) - Hunter is CMake-driven cross-platform package manager for C++ projects.
 
 ## Build Tools
- * [Wikipedia: List of build automation software](https://en.wikipedia.org/wiki/List_of_build_automation_software) 
- * [Gradle](https://docs.gradle.org/current/userguide/native_software.html)
+ * [Wikipedia: List of build automation software](https://en.wikipedia.org/wiki/List_of_build_automation_software)
+ * [Gradle](http://gradle.org) - Gradle is an open source build automation system with Groovy DSL.
+   * [Cpp Plugin](https://docs.gradle.org/current/userguide/native_software.html) - Building native software
  * [GYP](https://gyp.gsrc.io) - GYP is a Meta-Build system: a build system that generates other build systems.
  * [Bazel](http://bazel.io) - Google build system: {Fast, Correct} - Choose two
  * [Premake](http://premake.github.io)
