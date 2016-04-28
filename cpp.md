@@ -18,7 +18,7 @@
  * [Ceedling](https://github.com/ThrowTheSwitch/Ceedling)
  * [BuildAMation](http://buildamation.com) - BuildAMation (Bam) is a build system and project generator written in C#
  * [CMake](https://cmake.org) - CMake is an open-source, cross-platform family of tools designed to build, test and package software.
- ** [CMake ExternalProject](https://cmake.org/cmake/help/v3.0/module/ExternalProject.html) - Create custom targets to build projects in external trees.
+   * [CMake ExternalProject](https://cmake.org/cmake/help/v3.0/module/ExternalProject.html) - Create custom targets to build projects in external trees.
 
 ## TDD
  * [Test-Driven Development Strategies applied to Embedded Software](https://lirias.kuleuven.be/bitstream/123456789/355413/1/TDDstrategiesAppliedToES.pdf)
