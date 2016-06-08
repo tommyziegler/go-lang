@@ -10,6 +10,7 @@
 * [Server](server.md) - Server OS and Applications
 * [Package-Manager](package-manager.md) - Package Manager
 * [Security](security.md) - Security Software
+* [Configuration-Management](cm.md) - Rollout Software and Configuration
 
 ## Developer Learning Section
 * [Developer Books](dev-books.md) - Interesting books for the Developer from today.
