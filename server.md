@@ -3,7 +3,8 @@
 * [ClearOS](https://www.clearos.com) - ClearOS is an operating system for your Server, Network, and Gateway systems. It is designed for homes, small to medium businesses, and distributed environments. ClearOS is commonly known as the Next Generation Small Business Server, while including indispensable Gateway and Networking functionality. It delivers a powerful IT solution with an elegant user interface that is completely web-based. Simply put.. ClearOS is the new way of delivering IT.
    - ClearOS 7.1 as a Domain Controller (https://www.youtube.com/watch?v=pueCMuQ2acY)
 * [RancherOS](http://rancher.com/rancher-os/) - RancherOS is a tiny Linux distro that runs the entire OS as Docker containers.
-* 
+* [CoreOS](http://coreos.com) - CoreOS is Linux for Massive Server Deployments
+* [Busybox](https://www.busybox.net) - The Swiss Army knife of Embedded Linux.
 
 ## Applications
 ### Documentation, Wiki or Intranet
