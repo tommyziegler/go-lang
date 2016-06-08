@@ -1,6 +1,7 @@
 # Twitter Users to Follow
 
 ## IT / Software - Development
+### International
 * [@martinfowler](https://twitter.com/martinfowler) - Martin Fowler, Programmer, Loud Mouth, ThoughtWorker
 * [@ericevans0](https://twitter.com/ericevans0) - Eric Evans, Domain Linguist
 * [@mraible](https://twitter.com/mraible) - Matt Raible
@@ -9,6 +10,7 @@
 * [@Stephan007](https://twitter.com/stephan007) - Stephan Janssen, Founder @Devoxx
 * [@unclebobmartin](https://twitter.com/unclebobmartin) - Uncle Bob Martin, Software Craftsman
 * [@karianna](https://twitter.com/karianna) - Martijn Verburg
+### German
 * [@StefanZoerner](https://twitter.com/stefanzoerner) - Stefan Zörner
 * [@ewolff](https://twitter.com/ewolff) - Eberhard Wolff
 * [@matkar](https://twitter.com/matkar) - Mattias Karlsson
