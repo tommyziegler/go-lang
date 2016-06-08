@@ -10,5 +10,7 @@
 * [Realms Wiki](http://realms.io) - Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 
 ### Mail Server
+* [ZDnet Article](http://www.zdnet.de/88217792/exchange-alternativen-zarafa-zimbra-domino-und-co/) about Exchange Server alternatives
 * [Pixelated](https://pixelated-project.org) - Pixelated combines the usefulness of modern email with the privacy of modern cryptography.
 * [Dark Mail](https://darkmail.info) - To bring the world our unique end-to-end encrypted protocol and architecture that is the 'next-generation' of private and secure email. Ex-Founder of Lavabit
+* [Open-Xchange](https://www.open-xchange.com) - Most popular Xchange alternative in Germany, commissioned by 1 & 1 Germany.
