@@ -9,7 +9,6 @@
 * [@Stephan007](https://twitter.com/stephan007) - Stephan Janssen, Founder @Devoxx
 * [@unclebobmartin](https://twitter.com/unclebobmartin) - Uncle Bob Martin, Software Craftsman
 * [@karianna](https://twitter.com/karianna) - Martijn Verburg
-
 * [@StefanZoerner](https://twitter.com/stefanzoerner) - Stefan Zörner
 * [@ewolff](https://twitter.com/ewolff) - Eberhard Wolff
 * [@matkar](https://twitter.com/matkar) - Mattias Karlsson
