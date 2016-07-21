@@ -1,5 +1,6 @@
+# Big Data 
 
-
+## High through-put system's and frameworks ...
 * Hadoop
 
 * Message Queuing Frameworks
@@ -12,7 +13,7 @@
   - Spring XD
   - 
 
-# Visualization 
+## Visualization 
  * [D3.js](d3js.org) - Data-Driven Documents
  * [dc.js](https://dc-js.github.io/dc.js/) - Dimensional Charting Javascript Library
 
