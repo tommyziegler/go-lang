@@ -5,6 +5,7 @@
 * [go-lang](go-lang.md) - Go Programming Language
 * [Frameworks](frameworks.md) - Interesting frameworks
 * [Webdesign](webdesign.md) - Solutions and Services to design a website
+* [BigData](bigdata.md) - BigData
 
 ## Software
 * [Server](server.md) - Server OS and Applications
