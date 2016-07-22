@@ -1,8 +1,8 @@
 # Big Data 
 
 * Big Data Examples:
-  - Cloudera Five Common Hadoopable Problem [[pdf]](http://www.cloudera.com/content/dam/www/static/documents/whitepapers/five-common-hadoopable-problems.pdf)
-  - [Ver-log-end](https://www.innoq.com/de/articles/2013/08/log-daten-verarbeiten-mit-kafka/) - Log-Daten effektiv verarbeiten mit Apache Kafka
+  - Cloudera Five Common Hadoopable Problem -  [[pdf]](http://www.cloudera.com/content/dam/www/static/documents/whitepapers/five-common-hadoopable-problems.pdf)
+  - Ver-log-end - Log-Daten effektiv verarbeiten mit Apache Kafka - [Blog](https://www.innoq.com/de/articles/2013/08/log-daten-verarbeiten-mit-kafka/)
 
 ## High through-put system's and frameworks ...
 * Hadoop
