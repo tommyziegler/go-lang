@@ -2,7 +2,7 @@
 
 * Top Java Websites (9 sites)
 
-  - (Javaworld)[http://www.javaworld.com/]
+  - [Javaworld](http://www.javaworld.com/)
   - (Java Code Geeks)[http://www.javacodegeeks.com/]
   - (InfoQ | Java)[http://www.infoq.com/java/]
   - (Javalobby)[http://java.dzone.com/]
