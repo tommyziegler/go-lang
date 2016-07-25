@@ -2,6 +2,7 @@
 
 ## Programming Languages / Programmiersprachen
 * [C/C++](cpp.md) - C/C++ Language
+* [Java Platform](java.md) - Java Language (other JVM Platform languages)
 * [go-lang](go-lang.md) - Go Programming Language
 * [Frameworks](frameworks.md) - Interesting frameworks
 * [Webdesign](webdesign.md) - Solutions and Services to design a website
