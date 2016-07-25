@@ -2,15 +2,15 @@
 
 * Top Java Websites (9 sites)
 
-  - [http://www.javaworld.com/](Javaworld)
-  - [http://www.javacodegeeks.com/](Java Code Geeks)
-  - [http://www.infoq.com/java/](InfoQ | Java)
-  - [http://java.dzone.com/](Javalobby)
-  - [http://www.theserverside.com/](The Server Side)
-  - [http://jaxenter.com/news/java](Jaxenter | Java)
-  - [http://spring.io/blog](The Spring Blog)
-  - [http://www.ibm.com/developerworks/views/java/libraryview.jsp](DeveloperWorks: Java technology)
-  - [http://www.voxxed.com/](Voxxed)
+  - (Javaworld)[http://www.javaworld.com/]
+  - (Java Code Geeks)[http://www.javacodegeeks.com/]
+  - (InfoQ | Java)[http://www.infoq.com/java/]
+  - (Javalobby)[http://java.dzone.com/]
+  - (The Server Side)[http://www.theserverside.com/]
+  - (Jaxenter | Java)[http://jaxenter.com/news/java]
+  - (The Spring Blog)[http://spring.io/blog]
+  - (DeveloperWorks: Java technology)[http://www.ibm.com/developerworks/views/java/libraryview.jsp]
+  - (Voxxed)[http://www.voxxed.com/]
 
 * Top Java Developers Blogs (26 blogs)
 
