@@ -44,4 +44,4 @@
   - [http://howtodoinjava.com/](How to do in Java)
 
 ## Blogposts
-  - (ActiveMQ, Qpid, HornetQ und RabbitMQ im Vergleich)[https://www.predic8.de/activemq-hornetq-rabbitmq-apollo-qpid-vergleich.htm]
+  - [ActiveMQ, Qpid, HornetQ und RabbitMQ im Vergleich](https://www.predic8.de/activemq-hornetq-rabbitmq-apollo-qpid-vergleich.htm)
