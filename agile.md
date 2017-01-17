@@ -1,5 +1,7 @@
 # Scrum 
 
+* [Die Scrum Checkliste](http://files.hanser.de/hanser/docs/20130415_21341513727-102_110413_checklist2013_de_web.pdf)
+
 ## Retrospektiven
 * [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
 
