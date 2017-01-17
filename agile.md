@@ -8,6 +8,7 @@
 
 ## Scrum Master
 * [42 Tasks for a Scrum Master Job](http://agiletrail.com/2011/11/14/42-tasks-for-a-scrum-masters-job/)
+* [Checklisten für Scrum-Master](http://www.softfine.de/checklisten-fuer-scrum-master/)
 
 ## Coaches und deren Blogs
 * [Roman Pichler](http://www.romanpichler.com/)
