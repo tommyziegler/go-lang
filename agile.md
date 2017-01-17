@@ -5,6 +5,12 @@
 * [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
 * [Retrospektiven – kurz & gut](http://retrospektiven-kurzundgut.de/)
 * [Spice up your Retrospective](http://www.sybit-agile.de/blog/2012/06/agile-breakfast-retrospective/)
+* [Retrospektiven – Das Zufriedenheits-Histogramm](http://prozessblog.de/20131108-retrospektiven-das-zufriedenheits-histogramm)
+  * [Tafebild 1](http://prozessblog.de/wp-content/uploads/2013/11/satifsaction-histogram-1.jpg)
+  * [Tafebild 2](http://prozessblog.de/wp-content/uploads/2013/11/satifsaction-histogram-2.jpg)
+* [Retrospektiven im Projektmanagement](https://www.informatik-aktuell.de/management-und-recht/projektmanagement/retrospektiven-im-projektmanagement.html)
+
+
 
 ## Impediments
 * [Scrum Impediments kurz und knapp erklärt](https://alphanodes.com/de/scrum-impediments-kurz-knapp-erklaert)
@@ -21,3 +27,8 @@
 
 ## Coaches und deren Blogs
 * [Roman Pichler](http://www.romanpichler.com/)
+
+## Scrum Master bzw. Coach Tafelbilder
+
+# Principles
+* [Principles Wiki](http://principles-wiki.net/start) - This wiki is a place to collect, examine, and discuss software design knowledge in a systematic way. Currently there is a strong focus on (object-oriented) design principles (SOLID, GRASP, DRY, KISS, …). In the future other forms of experience reuse, like patterns and anti-patterns, will also be explored and interconnected with the principles.
