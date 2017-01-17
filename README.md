@@ -17,3 +17,6 @@
 ## Developer Learning Section
 * [Developer Books](dev-books.md) - Interesting books for the Developer from today.
 * [Developer Videos / Webcats](dev-videos.md) - Interesting sessions which I recommend to watch.
+
+## Methodiken
+* [Agile](agile.md) - Interesting information about agile methods
