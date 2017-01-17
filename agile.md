@@ -3,6 +3,7 @@
 
 ## Retrospektiven
 * [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
+* [Retrospektiven – kurz & gut](http://retrospektiven-kurzundgut.de/)
 * [Spice up your Retrospective](http://www.sybit-agile.de/blog/2012/06/agile-breakfast-retrospective/)
 
 ## Impediments
