@@ -14,6 +14,9 @@
 * [Security](security.md) - Security Software
 * [Configuration-Management](cm.md) - Rollout Software and Configuration
 
+## Continuous Learning 
+* [Podcasts](podcasts.md) - Podcasts to continuous improve yourself
+
 ## Developer Learning Section
 * [Developer Books](dev-books.md) - Interesting books for the Developer from today.
 * [Developer Videos / Webcats](dev-videos.md) - Interesting sessions which I recommend to watch.
