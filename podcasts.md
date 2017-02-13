@@ -44,13 +44,12 @@
 
 ### Gesellschaft Netz, Kultur etc.
 * [Staatsbürgerkunde](http://www.staatsbuergerkunde-podcast.de) - Ein Podcast über das Leben in der DDR
-* [Logbuch: Netzpolitik]
+* [Logbuch: Netzpolitik]()
 * [Wikigeeks](http://www.wikigeeks.de) - Ein Podcast über gesellschaftliche Netzthemen. Von Claudia Krell, Ralf Stockmann, Bertram Kleff und Florian Heinz.
 * [CRE: Technik, Kultur, Gesellschaft]
-* [Alternativlos]
-* [WRINT] - WRINT Wer redet ist nicht tot
-* [Not Safe for work]
-
+* [Alternativlos](http://www.alternativlos.org) - Alternativlos ist der Boulevard-Podcast von Frank und Fefe, über Politik, Technik, Verschwöhrungstheorien.
+* [WRINT](http://www.wrint.de) - WRINT Wer redet ist nicht tot mit Holger Klein
+* [Not Safe for work](http://not-safe-for-work.de) - NSFW ist unkonventionell, unregelmäßig, unsinnig und ungemein unanständig. Die internationale Unterhaltungsgala mit Tim Pritlove und Holger Klein
 ### Nerd Podcasts - IT, Apple etc.
 * [Chaosradio]
 * [Freak Show]
@@ -60,7 +59,7 @@
 * [nerds.fm]
 
 ### Podcasting
-* [Der Lautsprecher]
+* [Der Lautsprecher](http://der-lautsprecher.de) - Der Lautsprecher ist ein Forum für Podcaster
 
 ### Entwickler Podcasts
 * [heise Developer]() - SoftwareArchitekTOUR-Podcast
