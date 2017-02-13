@@ -44,12 +44,13 @@
 
 ### Gesellschaft Netz, Kultur etc.
 * [Staatsbürgerkunde](http://www.staatsbuergerkunde-podcast.de) - Ein Podcast über das Leben in der DDR
-* [Logbuch: Netzpolitik]()
+* [Logbuch: Netzpolitik](http://logbuch-netzpolitik.de) - wöchentlicher Podcast über Netzpolitische Themen von Tim Pritlove und Linus Neumann (Author auf Netzpolitik.org)
 * [Wikigeeks](http://www.wikigeeks.de) - Ein Podcast über gesellschaftliche Netzthemen. Von Claudia Krell, Ralf Stockmann, Bertram Kleff und Florian Heinz.
 * [CRE: Technik, Kultur, Gesellschaft]
 * [Alternativlos](http://www.alternativlos.org) - Alternativlos ist der Boulevard-Podcast von Frank und Fefe, über Politik, Technik, Verschwöhrungstheorien.
 * [WRINT](http://www.wrint.de) - WRINT Wer redet ist nicht tot mit Holger Klein
 * [Not Safe for work](http://not-safe-for-work.de) - NSFW ist unkonventionell, unregelmäßig, unsinnig und ungemein unanständig. Die internationale Unterhaltungsgala mit Tim Pritlove und Holger Klein
+
 ### Nerd Podcasts - IT, Apple etc.
 * [Chaosradio]
 * [Freak Show]
