@@ -19,3 +19,4 @@
 #### Secure eMail Server Alternatives
 * [Pixelated](https://pixelated-project.org) - Pixelated combines the usefulness of modern email with the privacy of modern cryptography.
 * [Dark Mail](https://darkmail.info) - To bring the world our unique end-to-end encrypted protocol and architecture that is the 'next-generation' of private and secure email. Ex-Founder of Lavabit
+* [Apache James](https://james.apache.org) - James stands for Java Apache Mail Enterprise Server! It has a modular architecture based on a rich set of modern and efficient components which provides at the end complete, stable, secure and extendable Mail Servers running on the JVM.
