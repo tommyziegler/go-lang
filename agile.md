@@ -9,6 +9,7 @@
   * [Tafebild 1](http://prozessblog.de/wp-content/uploads/2013/11/satifsaction-histogram-1.jpg)
   * [Tafebild 2](http://prozessblog.de/wp-content/uploads/2013/11/satifsaction-histogram-2.jpg)
 * [Retrospektiven im Projektmanagement](https://www.informatik-aktuell.de/management-und-recht/projektmanagement/retrospektiven-im-projektmanagement.html)
+* [Activities and ideas for making agile retrospectives more engaging](http://www.funretrospectives.com)
 
 ## Impediments
 * [Scrum Impediments kurz und knapp erklärt](https://alphanodes.com/de/scrum-impediments-kurz-knapp-erklaert)
@@ -46,3 +47,9 @@
 * [Principles Wiki](http://principles-wiki.net/start) - This wiki is a place to collect, examine, and discuss software design knowledge in a systematic way. Currently there is a strong focus on (object-oriented) design principles (SOLID, GRASP, DRY, KISS, …). In the future other forms of experience reuse, like patterns and anti-patterns, will also be explored and interconnected with the principles.
 
 * [S.O.L.I.D](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - S.O.L.I.D: The First 5 Principles of Object Oriented Design
+
+# Tools und Anwendungen
+## verteilte Teams
+* [Retrium - Retrospectives your team will actually enjoy.](https://app.retrium.com/demo)
+* [Fun Retro](http://funretro.github.io/distributed/)
+* [Padlet - Welcome to the easiest way to create and collaborate in the world](http://padlet.com)
